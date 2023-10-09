@@ -24,4 +24,5 @@
 
 
 
-![image](https://github.com/sixscale/weather_app/assets/47154385/6cc2d80a-d6b2-406c-b8cf-ba0f1027fd9e)
+![image](https://github.com/sixscale/weather_app/assets/47154385/bca17f43-e2e4-4b5c-ab6a-3eba5b702072)
+
